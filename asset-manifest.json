@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/muyal-kutti_kuku/static/css/main.46231f0d.css",
-    "main.js": "/muyal-kutti_kuku/static/js/main.d37ee0fd.js",
+    "main.css": "/muyal-kutti_kuku/static/css/main.81795c57.css",
+    "main.js": "/muyal-kutti_kuku/static/js/main.0b54217f.js",
     "index.html": "/muyal-kutti_kuku/index.html",
-    "main.46231f0d.css.map": "/muyal-kutti_kuku/static/css/main.46231f0d.css.map",
-    "main.d37ee0fd.js.map": "/muyal-kutti_kuku/static/js/main.d37ee0fd.js.map"
+    "main.81795c57.css.map": "/muyal-kutti_kuku/static/css/main.81795c57.css.map",
+    "main.0b54217f.js.map": "/muyal-kutti_kuku/static/js/main.0b54217f.js.map"
   },
   "entrypoints": [
-    "static/css/main.46231f0d.css",
-    "static/js/main.d37ee0fd.js"
+    "static/css/main.81795c57.css",
+    "static/js/main.0b54217f.js"
   ]
 }
