@@ -2,7 +2,7 @@ import Navbar from './components/Navbar';
 // import PhotoGallery from './components/PhotoGallery';
 // import Timeline from './components/TimelineMemory';
 // import Journals from './components/Journals';
-// import FunnyPhotos from './components/FunnyPhotos';
+// import MovieNights from './components/MovieNights';
 import './App.css';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
       {/* <PhotoGallery />
       <Timeline />
       <Journals />
-      <FunnyPhotos /> */}
+      <MovieNights />*/}
     </div>
   );
 }
