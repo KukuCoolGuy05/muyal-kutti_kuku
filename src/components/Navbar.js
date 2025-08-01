@@ -11,7 +11,7 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <div className="nav-left">
-        <span className="logo">💖 Muyal-kutti & Kuku 💖</span>
+        <span className="logo">Muyal-kutti & Kuku 💖</span>
         <button className="hamburger" onClick={toggleMenu}>
           ☰
         </button>
