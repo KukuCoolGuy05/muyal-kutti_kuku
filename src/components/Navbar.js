@@ -18,9 +18,9 @@ export default function Navbar() {
       </div>
       <div className={`nav-right ${menuOpen ? 'open' : ''}`}>
         <a href="#timeline" onClick={() => setMenuOpen(false)}>Timeline</a>
-        <a href="#gallery" onClick={() => setMenuOpen(false)}>Photos</a>
+        <a href="#gallery" onClick={() => setMenuOpen(false)}>Gallery</a>
         <a href="#journal" onClick={() => setMenuOpen(false)}>Journal</a>
-        <a href="#funny" onClick={() => setMenuOpen(false)}>Movie Nights</a>
+        <a href="#movies" onClick={() => setMenuOpen(false)}>Movie Nights</a>
       </div>
     </nav>
   );
