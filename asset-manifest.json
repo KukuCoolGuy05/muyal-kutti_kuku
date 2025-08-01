@@ -1,13 +1,24 @@
 {
   "files": {
-    "main.css": "/muyal-kutti_kuku/static/css/main.81795c57.css",
-    "main.js": "/muyal-kutti_kuku/static/js/main.0b54217f.js",
+    "main.css": "/muyal-kutti_kuku/static/css/main.b3adb424.css",
+    "main.js": "/muyal-kutti_kuku/static/js/main.c0d81d95.js",
+    "static/media/LGM.jpg": "/muyal-kutti_kuku/static/media/LGM.6e9cd1ef5c875376d211.jpg",
+    "static/media/bangalore.jpeg": "/muyal-kutti_kuku/static/media/bangalore.30bac38dba25ec097604.jpeg",
+    "static/media/dhoom_dhaam.jpg": "/muyal-kutti_kuku/static/media/dhoom_dhaam.ce7d7ed69ab329010686.jpg",
+    "static/media/toalltheboys.jpg": "/muyal-kutti_kuku/static/media/toalltheboys.714f352d557158d1bac1.jpg",
+    "static/media/kalakala.jpg": "/muyal-kutti_kuku/static/media/kalakala.87b7df82f9ed3d4ff1ef.jpg",
+    "static/media/naveena.jpg": "/muyal-kutti_kuku/static/media/naveena.5078a999e313ea553d51.jpg",
+    "static/media/anegan.jpg": "/muyal-kutti_kuku/static/media/anegan.a55baadbe0c832d365b9.jpg",
+    "static/media/slick.svg": "/muyal-kutti_kuku/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/muyal-kutti_kuku/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/muyal-kutti_kuku/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/muyal-kutti_kuku/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/muyal-kutti_kuku/index.html",
-    "main.81795c57.css.map": "/muyal-kutti_kuku/static/css/main.81795c57.css.map",
-    "main.0b54217f.js.map": "/muyal-kutti_kuku/static/js/main.0b54217f.js.map"
+    "main.b3adb424.css.map": "/muyal-kutti_kuku/static/css/main.b3adb424.css.map",
+    "main.c0d81d95.js.map": "/muyal-kutti_kuku/static/js/main.c0d81d95.js.map"
   },
   "entrypoints": [
-    "static/css/main.81795c57.css",
-    "static/js/main.0b54217f.js"
+    "static/css/main.b3adb424.css",
+    "static/js/main.c0d81d95.js"
   ]
 }
